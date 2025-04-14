@@ -27,6 +27,8 @@
                 <DataGrid x:Name="resultDataGrid" AutoGenerateColumns="True" CanUserAddRows="False" CanUserDeleteRows="False" Margin="0,0,0,10"/>
                 <TextBlock x:Name="totalCostTextBlock" FontWeight="Bold"/>
             </StackPanel>
+        https://math.semestr.ru/transp/index.php transport
+        https://math.semestr.ru/simplex/simplex.php simplex
         </ScrollViewer>
     </Grid>
 </Window>
